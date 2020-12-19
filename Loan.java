@@ -3,7 +3,7 @@ import java.util.Scanner;
  * If users loan is greater than a year, it will calculate money owed
  * after interest rate and the monthly payment of the loan.
  * 
- * @version 05/12/19
+ * @version 03/12/19
  * @author Batuhan Kir
  * 
  */
